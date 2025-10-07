@@ -1,0 +1,8 @@
+{
+  "name": "recetauro-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.57.0"
+  }
+}
