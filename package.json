@@ -2,8 +2,7 @@
   "name": "recetauro-backend",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
-  "dependencies": {
+   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "openai": "^4.104.0",
